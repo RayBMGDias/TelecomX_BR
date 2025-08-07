@@ -33,12 +33,12 @@
 
 *Perfil do Cliente:* A variável SeniorCitizen tem pouca influência na decisão de churn.
 
-*Correlações:* Foi identificada uma forte correlação de 0.83 entre o tempo de contrato (tenure) e o total de gastos (harges_Total). Além disso, há uma correlação perfeita (1.0) entre Charges_Monthly e Contas_Diarias, indicando redundância.
+*Correlações:* Foi identificada uma forte correlação de 0.83 entre o tempo de contrato (tenure) e o total de gastos (Charges_Total). Além disso, há uma correlação perfeita (1.0) entre Charges_Monthly e Contas_Diarias, indicando redundância.
 
 ***
 ## 💡 Conclusões e Recomendações
   
-- Com base na análise, estas são as recomendações para reduzir o churn:
+> Com base na análise, estas são as recomendações para reduzir o churn:
 
 - Incentivar Contratos de Longo Prazo: Ofereça descontos ou benefícios exclusivos para clientes que optarem por contratos anuais ou bienais.
 
